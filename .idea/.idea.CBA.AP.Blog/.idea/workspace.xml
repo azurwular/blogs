@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="950d7a9c-1d11-42e8-a934-1d5701fac6c6" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="PostsController.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CBA.AP.Blog/Controllers/PostsController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="585">
+              <caret line="42" column="41" selection-start-line="42" selection-start-column="41" selection-end-line="42" selection-end-column="41" />
+              <folding>
+                <marker date="1527018086200" expanded="false" signature="6:128" ph="..." />
+                <marker date="1527018086200" expanded="true" signature="163:1141" ph="{...}" />
+                <marker date="1527018086200" expanded="true" signature="228:980" ph="{...}" />
+                <marker date="1527018086200" expanded="true" signature="351:415" ph="{...}" />
+                <marker date="1527018086200" expanded="true" signature="504:716" ph="{...}" />
+                <marker date="1527018086200" expanded="true" signature="830:965" ph="{...}" />
+                <marker date="1527018086200" expanded="true" signature="998:1135" ph="/* TODO: Update post ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CreatePostRequest.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CBA.AP.Blog/Requests/CreatePostRequest.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+              <folding>
+                <marker date="1527016996577" expanded="false" signature="6:161" ph="..." />
+                <marker date="1527016996577" expanded="true" signature="230:461" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PostService.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CBA.AP.Blog.Services/PostService.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+              <folding>
+                <marker date="1526930338043" expanded="false" signature="6:174" ph="..." />
+                <marker date="1526930338043" expanded="true" signature="252:878" ph="{...}" />
+                <marker date="1526930338043" expanded="true" signature="375:445" ph="{...}" />
+                <marker date="1526930338043" expanded="true" signature="521:609" ph="{...}" />
+                <marker date="1526930338043" expanded="true" signature="678:872" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PostRepository.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CBA.AP.Blog.Infrastructure/Repositories/PostRepository.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="37" column="43" selection-start-line="37" selection-start-column="43" selection-end-line="37" selection-end-column="43" />
+              <folding>
+                <marker date="1527020245486" expanded="false" signature="6:193" ph="..." />
+                <marker date="1527020245486" expanded="true" signature="296:6260" ph="{...}" />
+                <marker date="1527020245486" expanded="true" signature="408:468" ph="{...}" />
+                <marker date="1527020245486" expanded="true" signature="518:2049" ph="{...}" />
+                <marker date="1527020245486" expanded="true" signature="1014:2039" ph="{...}" />
+                <marker date="1527020245486" expanded="true" signature="1204:1959" ph="{...}" />
+                <marker date="1527020245486" expanded="true" signature="1270:1753" ph="{...}" />
+                <marker date="1527020245486" expanded="true" signature="1371:1726" ph="{...}" />
+                <marker date="1527020245486" expanded="true" signature="1793:1897" ph="{...}" />
+                <marker date="1527020245486" expanded="true" signature="2125:2783" ph="{...}" />
+                <marker date="1527020245486" expanded="true" signature="2668:2773" ph="{...}" />
+                <marker date="1527020245486" expanded="true" signature="2833:3410" ph="{...}" />
+                <marker date="1527020245486" expanded="true" signature="3306:3400" ph="{...}" />
+                <marker date="1527020245486" expanded="true" signature="3460:4155" ph="{...}" />
+                <marker date="1527020245486" expanded="true" signature="4050:4145" ph="{...}" />
+                <marker date="1527020245486" expanded="true" signature="4221:4998" ph="{...}" />
+                <marker date="1527020245486" expanded="true" signature="4702:4988" ph="{...}" />
+                <marker date="1527020245486" expanded="true" signature="4825:4974" ph="/* gia polla result await connection.QueryAsync&lt;Post&gt;(query, parameters); ... */" />
+                <marker date="1527020245486" expanded="true" signature="5034:6254" ph="/* Task&lt;IEnumerable&lt;Post&gt;&gt; GetLatestAsync(int count) ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Post.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CBA.AP.Blog.Domain/Models/Post.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="17" column="37" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="37" />
+              <folding>
+                <marker date="1527019249411" expanded="false" signature="6:47" ph="..." />
+                <marker date="1527019249411" expanded="true" signature="108:397" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CBA.AP.Blog/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="28" column="66" selection-start-line="28" selection-start-column="66" selection-end-line="28" selection-end-column="66" />
+              <folding>
+                <marker date="1527018532622" expanded="false" signature="6:375" ph="..." />
+                <marker date="1527018532622" expanded="true" signature="425:1921" ph="{...}" />
+                <marker date="1527018532622" expanded="true" signature="541:836" ph="{...}" />
+                <marker date="1527018532622" expanded="true" signature="1013:1465" ph="{...}" />
+                <marker date="1527018532622" expanded="true" signature="1653:1915" ph="{...}" />
+                <marker date="1527018532622" expanded="true" signature="1700:1777" ph="{...}" />
+                <marker date="1527018532622" expanded="true" signature="1794:1878" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ICommentRepository.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CBA.AP.Blog.Domain/Repositories/ICommentRepository.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+              <folding>
+                <marker date="1527018463029" expanded="false" signature="6:96" ph="..." />
+                <marker date="1527018463029" expanded="true" signature="181:314" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommentRepository.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CBA.AP.Blog.Infrastructure/Repositories/CommentRepository.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+              <folding>
+                <marker date="1527018490774" expanded="false" signature="6:135" ph="..." />
+                <marker date="1527018490774" expanded="true" signature="244:533" ph="{...}" />
+                <marker date="1527018490774" expanded="true" signature="313:389" ph="{...}" />
+                <marker date="1527018490774" expanded="true" signature="451:527" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Comment.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CBA.AP.Blog.Domain/Models/Comment.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="21" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="21" />
+              <folding>
+                <marker date="1527019136947" expanded="true" signature="77:264" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IPostRepository.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CBA.AP.Blog.Domain/Repositories/IPostRepository.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+              <folding>
+                <marker date="1527018989122" expanded="false" signature="6:96" ph="..." />
+                <marker date="1527018989122" expanded="true" signature="178:337" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D1EDC9EF-2B65-45BF-ACA5-143DD43A36DE/2a/c52a2bbe/JsonSerializerInternalWriter.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/CBA.AP.Blog/Requests/GetPostsRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D1EDC9EF-2B65-45BF-ACA5-143DD43A36DE/0e/00b29236/ExpressionValueProvider.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/CBA.AP.Blog.Infrastructure/Repositories/PostRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4CE2E3A8-E2EC-4FBF-86BE-4CF0BAB90A28/b1/99c476f2/ControllerActionInvoker.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/CBA.AP.Blog.Services/Interfaces/IPostService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CBA.AP.Blog.Infrastructure/DbContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CBA.AP.Blog.Domain/Models/Comment.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CBA.AP.Blog.Domain/Models/Post.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CBA.AP.Blog/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6D85C908-D676-49C8-A469-C19A74522F33/08/ef57bbef/Task`1.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/CBA.AP.Blog.Domain/Repositories/IPostRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CBA.AP.Blog/Filters/ModelStateValidationActionFilter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CBA.AP.Blog/Requests/CreatePostRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4CE2E3A8-E2EC-4FBF-86BE-4CF0BAB90A28/04/a1701614/StatusCodeResult.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/CBA.AP.Blog/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/2F645B3C-3455-4F0D-A191-68DFEB67515D/6/DynamicParameters.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/CBA.AP.Blog.Services/PostService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CBA.AP.Blog/Controllers/PostsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4CE2E3A8-E2EC-4FBF-86BE-4CF0BAB90A28/57/251e9a8d/BadRequestResult.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/CBA.AP.Blog.Infrastructure/Repositories/CommentRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CBA.AP.Blog.Domain/Repositories/ICommentRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CBA.AP.Blog/Models/ErrorViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CBA.AP.Blog.Web/Class1.cs" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog.Web/CBA.AP.Blog.Web.csproj" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog.Web/Controllers/HomeController.cs" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog/CBA.AP.Blog.csproj" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog.Domain/Class1.cs" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog.Repositories.Interfaces/Class1.cs" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog.Infrastructure/Class1.cs" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog.Services/Class1.cs" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog.Infrastructure/Options/DbOptions.cs" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog/appsettings.json" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog/Views/_ViewImports.cshtml" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog/Views/Home/Index.cshtml" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog/Program.cs" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog.Infrastructure/DbContext.cs" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog.Services/Interfaces/IValidator.cs" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog.Services/Validator.cs" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog/Controllers/HomeController.cs" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog/Controllers/BlogController.cs" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog/Filters/ModelStateValidationActionFilter.cs" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog/Requests/GetPostsRequest.cs" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog.Infrastructure/Repositories/BlogRepository.cs" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog.Domain/Repositories/IBlogRepository.cs" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog.Services/BlogService.cs" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog.Services/Interfaces/IBlogService.cs" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog.Services/PostService.cs" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog/Requests/CreatePostsRequest.cs" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog.Services/Interfaces/IPostService.cs" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog/Requests/CreatePostRequest.cs" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog/Controllers/PostsController.cs" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog.Domain/Repositories/ICommentRepository.cs" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog/Startup.cs" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog.Infrastructure/Repositories/CommentRepository.cs" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog.Domain/Repositories/IPostRepository.cs" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog.Domain/Models/Comment.cs" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog.Domain/Models/Post.cs" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog.Infrastructure/Repositories/PostRepository.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="853" />
+    <option name="y" value="134" />
+    <option name="width" value="1750" />
+    <option name="height" value="969" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="CBA.AP.Blog (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="CBA.AP.Blog (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/CBA.AP.Blog/bin/Debug/netcoreapp2.0/CBA.AP.Blog.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CBA.AP.Blog" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/CBA.AP.Blog/CBA.AP.Blog.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+      <browser url="http://localhost:5000" />
+    </configuration>
+    <configuration name="src\dummy2" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/dummy2/bin/Debug/netcoreapp2.0/dummy2.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dummy2" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/dummy2/dummy2.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+    </configuration>
+    <list>
+      <item itemvalue=".NET Project.Default" />
+      <item itemvalue=".NET Project.src\dummy2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.src\dummy2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="950d7a9c-1d11-42e8-a934-1d5701fac6c6" name="Default" comment="" />
+      <created>1524834420886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524834420886</updated>
+      <workItem from="1524834423237" duration="3481000" />
+      <workItem from="1524839301656" duration="13815000" />
+      <workItem from="1525720157136" duration="127000" />
+      <workItem from="1525808455651" duration="4015000" />
+      <workItem from="1526051144116" duration="4449000" />
+      <workItem from="1526064365064" duration="50000" />
+      <workItem from="1526499167755" duration="7933000" />
+      <workItem from="1526650742435" duration="320000" />
+      <workItem from="1526651079025" duration="2897000" />
+      <workItem from="1526928496654" duration="9154000" />
+      <workItem from="1527604068891" duration="1880000" />
+      <workItem from="1531771474642" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="48131000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="REST Client" order="8" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32897604" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.24074075" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19029851" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="4" weight="0.22483222" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3093682" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Build" order="8" weight="0.32909605" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" isUnityUI="false" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/CBA.AP.Blog/Controllers/PostsController.cs</url>
+          <line>29</line>
+          <properties documentPath="$PROJECT_DIR$/CBA.AP.Blog/Controllers/PostsController.cs" initialLine="29">
+            <startOffsets>
+              <startOffset value="839" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="840" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="15" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog.Services/PostService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog.Domain/Models/Post.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog.Domain/Models/Comment.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog/Controllers/PostsController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dummy/Startup.cs" />
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog.Web/CBA.AP.Blog.Web.csproj" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6D85C908-D676-49C8-A469-C19A74522F33/1f/1f8d9dca/ExecutionContext.cs" />
+    <entry file="file://$PROJECT_DIR$/dummy2/Program.cs" />
+    <entry file="file://$PROJECT_DIR$/dummy2/dummy2.csproj" />
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog/Views/Shared/_Layout.cshtml" />
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog.Repositories.Interfaces/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog.Services/Class1.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/94C3CF26-73D6-49A3-98FE-7E087F2EC01C/95/44df8087/DbConnection.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/490CA514-566E-4368-9FA7-FB758FA48F6E/d6/d0c30159/MySqlConnection.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C78A7D9B-66E3-4070-9A92-5E649D7AD20C/dc/02f9c4d2/WebHost.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B3824083-29EE-4512-A838-FCA9F4A05F42/41/7db99cc6/ServiceCollectionServiceExtensions.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D16D35CF-F02B-4ED2-893D-5501E0442AAF/22/8e1e6bd0/ConfigureServicesBuilder.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D16D35CF-F02B-4ED2-893D-5501E0442AAF/f8/7c969ddd/StartupLoader.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D16D35CF-F02B-4ED2-893D-5501E0442AAF/d4/79175805/ConventionBasedStartup.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D16D35CF-F02B-4ED2-893D-5501E0442AAF/0d/e3d94ff8/WebHost.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D16D35CF-F02B-4ED2-893D-5501E0442AAF/4e/b5176552/ConfigureBuilder.cs" />
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog.Infrastructure/Options/DbOptions.cs" />
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog/Views/Home/Index.cshtml" />
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog.Services/Interfaces/IValidator.cs" />
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4CE2E3A8-E2EC-4FBF-86BE-4CF0BAB90A28/04/a1701614/StatusCodeResult.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4CE2E3A8-E2EC-4FBF-86BE-4CF0BAB90A28/57/251e9a8d/BadRequestResult.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4CE2E3A8-E2EC-4FBF-86BE-4CF0BAB90A28/b1/99c476f2/ControllerActionInvoker.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="115" column="10" selection-start-line="115" selection-start-column="10" selection-end-line="115" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog.Services/Validator.cs" />
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog/CBA.AP.Blog.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog/Filters/ModelStateValidationActionFilter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog.Infrastructure/DbContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog/Models/ErrorViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog.Services/Interfaces/IPostService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/2F645B3C-3455-4F0D-A191-68DFEB67515D/6/DynamicParameters.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6D85C908-D676-49C8-A469-C19A74522F33/08/ef57bbef/Task`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="171" column="8" selection-start-line="171" selection-start-column="8" selection-end-line="171" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D1EDC9EF-2B65-45BF-ACA5-143DD43A36DE/0e/00b29236/ExpressionValueProvider.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="58" column="8" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D1EDC9EF-2B65-45BF-ACA5-143DD43A36DE/2a/c52a2bbe/JsonSerializerInternalWriter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="348" column="11" lean-forward="true" selection-start-line="348" selection-start-column="11" selection-end-line="348" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog/Requests/GetPostsRequest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="25" column="15" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog/Requests/CreatePostRequest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <marker date="1527016996577" expanded="false" signature="6:161" ph="..." />
+            <marker date="1527016996577" expanded="true" signature="230:461" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog.Domain/Repositories/ICommentRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <marker date="1527018463029" expanded="false" signature="6:96" ph="..." />
+            <marker date="1527018463029" expanded="true" signature="181:314" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog.Domain/Repositories/IPostRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+          <folding>
+            <marker date="1527018989122" expanded="false" signature="6:96" ph="..." />
+            <marker date="1527018989122" expanded="true" signature="178:337" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog.Services/PostService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+          <folding>
+            <marker date="1526930338043" expanded="false" signature="6:174" ph="..." />
+            <marker date="1526930338043" expanded="true" signature="252:878" ph="{...}" />
+            <marker date="1526930338043" expanded="true" signature="375:445" ph="{...}" />
+            <marker date="1526930338043" expanded="true" signature="521:609" ph="{...}" />
+            <marker date="1526930338043" expanded="true" signature="678:872" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog.Domain/Models/Post.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="37" />
+          <folding>
+            <marker date="1527019249411" expanded="false" signature="6:47" ph="..." />
+            <marker date="1527019249411" expanded="true" signature="108:397" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog.Domain/Models/Comment.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="21" />
+          <folding>
+            <marker date="1527019136947" expanded="true" signature="77:264" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="28" column="66" selection-start-line="28" selection-start-column="66" selection-end-line="28" selection-end-column="66" />
+          <folding>
+            <marker date="1527018532622" expanded="false" signature="6:375" ph="..." />
+            <marker date="1527018532622" expanded="true" signature="425:1921" ph="{...}" />
+            <marker date="1527018532622" expanded="true" signature="541:836" ph="{...}" />
+            <marker date="1527018532622" expanded="true" signature="1013:1465" ph="{...}" />
+            <marker date="1527018532622" expanded="true" signature="1653:1915" ph="{...}" />
+            <marker date="1527018532622" expanded="true" signature="1700:1777" ph="{...}" />
+            <marker date="1527018532622" expanded="true" signature="1794:1878" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog.Infrastructure/Repositories/CommentRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+          <folding>
+            <marker date="1527018490774" expanded="false" signature="6:135" ph="..." />
+            <marker date="1527018490774" expanded="true" signature="244:533" ph="{...}" />
+            <marker date="1527018490774" expanded="true" signature="313:389" ph="{...}" />
+            <marker date="1527018490774" expanded="true" signature="451:527" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog.Infrastructure/Repositories/PostRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="37" column="43" selection-start-line="37" selection-start-column="43" selection-end-line="37" selection-end-column="43" />
+          <folding>
+            <marker date="1527020245486" expanded="false" signature="6:193" ph="..." />
+            <marker date="1527020245486" expanded="true" signature="296:6260" ph="{...}" />
+            <marker date="1527020245486" expanded="true" signature="408:468" ph="{...}" />
+            <marker date="1527020245486" expanded="true" signature="518:2049" ph="{...}" />
+            <marker date="1527020245486" expanded="true" signature="1014:2039" ph="{...}" />
+            <marker date="1527020245486" expanded="true" signature="1204:1959" ph="{...}" />
+            <marker date="1527020245486" expanded="true" signature="1270:1753" ph="{...}" />
+            <marker date="1527020245486" expanded="true" signature="1371:1726" ph="{...}" />
+            <marker date="1527020245486" expanded="true" signature="1793:1897" ph="{...}" />
+            <marker date="1527020245486" expanded="true" signature="2125:2783" ph="{...}" />
+            <marker date="1527020245486" expanded="true" signature="2668:2773" ph="{...}" />
+            <marker date="1527020245486" expanded="true" signature="2833:3410" ph="{...}" />
+            <marker date="1527020245486" expanded="true" signature="3306:3400" ph="{...}" />
+            <marker date="1527020245486" expanded="true" signature="3460:4155" ph="{...}" />
+            <marker date="1527020245486" expanded="true" signature="4050:4145" ph="{...}" />
+            <marker date="1527020245486" expanded="true" signature="4221:4998" ph="{...}" />
+            <marker date="1527020245486" expanded="true" signature="4702:4988" ph="{...}" />
+            <marker date="1527020245486" expanded="true" signature="4825:4974" ph="/* gia polla result await connection.QueryAsync&lt;Post&gt;(query, parameters); ... */" />
+            <marker date="1527020245486" expanded="true" signature="5034:6254" ph="/* Task&lt;IEnumerable&lt;Post&gt;&gt; GetLatestAsync(int count) ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog/Controllers/PostsController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="42" column="41" selection-start-line="42" selection-start-column="41" selection-end-line="42" selection-end-column="41" />
+          <folding>
+            <marker date="1527018086200" expanded="false" signature="6:128" ph="..." />
+            <marker date="1527018086200" expanded="true" signature="163:1141" ph="{...}" />
+            <marker date="1527018086200" expanded="true" signature="228:980" ph="{...}" />
+            <marker date="1527018086200" expanded="true" signature="351:415" ph="{...}" />
+            <marker date="1527018086200" expanded="true" signature="504:716" ph="{...}" />
+            <marker date="1527018086200" expanded="true" signature="830:965" ph="{...}" />
+            <marker date="1527018086200" expanded="true" signature="998:1135" ph="/* TODO: Update post ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

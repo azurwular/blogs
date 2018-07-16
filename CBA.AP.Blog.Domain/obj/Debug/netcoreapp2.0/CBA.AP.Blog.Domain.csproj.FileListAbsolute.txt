@@ -1,0 +1,16 @@
+C:\cos\net\CBA.AP.Blog\CBA.AP.Blog.Domain\bin\Debug\netcoreapp2.0\CBA.AP.Blog.Domain.deps.json
+C:\cos\net\CBA.AP.Blog\CBA.AP.Blog.Domain\bin\Debug\netcoreapp2.0\CBA.AP.Blog.Domain.dll
+C:\cos\net\CBA.AP.Blog\CBA.AP.Blog.Domain\bin\Debug\netcoreapp2.0\CBA.AP.Blog.Domain.pdb
+C:\cos\net\CBA.AP.Blog\CBA.AP.Blog.Domain\obj\Debug\netcoreapp2.0\CBA.AP.Blog.Domain.csproj.CoreCompileInputs.cache
+C:\cos\net\CBA.AP.Blog\CBA.AP.Blog.Domain\obj\Debug\netcoreapp2.0\CBA.AP.Blog.Domain.AssemblyInfoInputs.cache
+C:\cos\net\CBA.AP.Blog\CBA.AP.Blog.Domain\obj\Debug\netcoreapp2.0\CBA.AP.Blog.Domain.AssemblyInfo.cs
+C:\cos\net\CBA.AP.Blog\CBA.AP.Blog.Domain\obj\Debug\netcoreapp2.0\CBA.AP.Blog.Domain.dll
+C:\cos\net\CBA.AP.Blog\CBA.AP.Blog.Domain\obj\Debug\netcoreapp2.0\CBA.AP.Blog.Domain.pdb
+C:\cos\Blog-master\CBA.AP.Blog.Domain\bin\Debug\netcoreapp2.0\CBA.AP.Blog.Domain.deps.json
+C:\cos\Blog-master\CBA.AP.Blog.Domain\bin\Debug\netcoreapp2.0\CBA.AP.Blog.Domain.dll
+C:\cos\Blog-master\CBA.AP.Blog.Domain\bin\Debug\netcoreapp2.0\CBA.AP.Blog.Domain.pdb
+C:\cos\Blog-master\CBA.AP.Blog.Domain\obj\Debug\netcoreapp2.0\CBA.AP.Blog.Domain.csproj.CoreCompileInputs.cache
+C:\cos\Blog-master\CBA.AP.Blog.Domain\obj\Debug\netcoreapp2.0\CBA.AP.Blog.Domain.AssemblyInfoInputs.cache
+C:\cos\Blog-master\CBA.AP.Blog.Domain\obj\Debug\netcoreapp2.0\CBA.AP.Blog.Domain.AssemblyInfo.cs
+C:\cos\Blog-master\CBA.AP.Blog.Domain\obj\Debug\netcoreapp2.0\CBA.AP.Blog.Domain.dll
+C:\cos\Blog-master\CBA.AP.Blog.Domain\obj\Debug\netcoreapp2.0\CBA.AP.Blog.Domain.pdb

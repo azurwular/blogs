@@ -1,0 +1,55 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\cos\\Blog-master\\CBA.AP.Blog.Infrastructure\\CBA.AP.Blog.Infrastructure.csproj",
+    "projectName": "CBA.AP.Blog.Infrastructure",
+    "projectPath": "C:\\cos\\Blog-master\\CBA.AP.Blog.Infrastructure\\CBA.AP.Blog.Infrastructure.csproj",
+    "outputPath": "C:\\cos\\Blog-master\\CBA.AP.Blog.Infrastructure\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "C:\\cos\\Blog-master\\CBA.AP.Blog.Domain\\CBA.AP.Blog.Domain.csproj": {
+            "projectPath": "C:\\cos\\Blog-master\\CBA.AP.Blog.Domain\\CBA.AP.Blog.Domain.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Dapper": {
+          "target": "Package",
+          "version": "[1.50.4, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        },
+        "MySql.Data": {
+          "target": "Package",
+          "version": "[8.0.11, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

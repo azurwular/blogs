@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "CBA.AP.Blog.Services/1.0.0": {
+        "dependencies": {
+          "CBA.AP.Blog.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CBA.AP.Blog.Services.dll": {}
+        }
+      },
+      "CBA.AP.Blog.Domain/1.0.0": {
+        "runtime": {
+          "CBA.AP.Blog.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CBA.AP.Blog.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CBA.AP.Blog.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
